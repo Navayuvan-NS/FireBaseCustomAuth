@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Jul 22 22:35:43 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\NS\\AndroidStudioProjects\\FireBaseAuthCus\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
